@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#camera01 {
+	background-color: white; 
+	color: black;
+	position: absolute;
+	left: 85%;
+	top: 80%;
+	width: 10%;
+	z-index: 2;
+	font-size: 0.5em;
+}
+
+#camera02 {
+	background-color: white; 
+	color: black;
+	position: absolute;
+	left: 85%;
+	top: 82.5%;
+	width: 10%;
+	z-index: 2;
+	font-size: 0.5em;
+}
+
+#camera03 {
+	background-color: white; 
+	color: black;
+	position: absolute;
+	left: 85%;
+	top: 85%;
+	width: 10%;
+	z-index: 2;
+	font-size: 0.5em;
+}
+
+/*# sourceMappingURL=main.css.map*/
